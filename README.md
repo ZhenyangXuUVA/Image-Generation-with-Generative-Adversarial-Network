@@ -28,19 +28,19 @@ Packages required for this program is listed below:
 - [Matplotlib](https://github.com/matplotlib): A package for data manipulation and data plot
 
 ## Research Papers
--Image Segmentation as Rendering, https://arxiv.org/pdf/1912.08193
--Mask R-CNN, https://arxiv.org/pdf/1703.06870
--MViTv2: Improved Multiscale Vision Transformers for Classification and Detection, https://arxiv.org/abs/2112.01526
--MViTv2: https://github.com/facebookresearch/detectron2/tree/main/projects/MViTv2
--PointRend: https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
--Mask_RCNN: https://github.com/matterport/Mask_RCNN
+- PointRend: Image Segmentation as Rendering, https://arxiv.org/pdf/1912.08193
+- Mask R-CNN, https://arxiv.org/pdf/1703.06870
+- MViTv2: Improved Multiscale Vision Transformers for Classification and Detection, https://arxiv.org/abs/2112.01526
+- MViTv2: https://github.com/facebookresearch/detectron2/tree/main/projects/MViTv2
+- PointRend: https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
+- Mask_RCNN: https://github.com/matterport/Mask_RCNN
 
 ## Code files:
 - Generative_Adversarial_Network_V1.ipynb: Notebook Version 1
 - Generative_Adversarial_Network_V1.py: Python Code Version 1
 - Generative_Adversarial_Network_V2.ipynb: Notebook Version 2
 - Generative_Adversarial_Network_V2.py: Python Code Version 2
-- 
+
 ## Output Image files:
 - Output_Images_V1: Generated Images x 100
 
