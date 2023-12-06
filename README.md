@@ -48,6 +48,12 @@ Packages required for this program is listed below:
 - Generative_Adversarial_Network_V1.py: Python Code Version 1
 - Generative_Adversarial_Network_V2.ipynb: Notebook Version 2
 - Generative_Adversarial_Network_V2.py: Python Code Version 2
+- DCGAN_MNIST.ipynb：Generate MNIST digit images with Deep Convolutional GAN (DCGAN)
+- DCGAN_MNIST.py: Generate MNIST digit images with Deep Convolutional GAN (DCGAN)
+- DCGAN_CIFAR_no_Spectral Normalization.ipynb: Generate CIFAR-10 images with DCGAN
+- DCGAN_CIFAR_no_Spectral Normalization.py: Generate CIFAR-10 images with DCGAN
+- DCGAN_CIFAR_with_Spectral_Normalization.ipynb: Generate CIFAR-10 images with SN-DCGAN
+- DCGAN_CIFAR_with_Spectral_Normalization.py: Generate CIFAR-10 images with SN-DCGAN
 
 ## Output Image files:
 - Output_Images_V1: Generated Images x 100
