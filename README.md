@@ -60,4 +60,4 @@ Packages required for this program is listed below:
 
 ## Results:
 - Image Style Transfer Examples: 
-<img src="" width="100" height="100">
+<img src="https://github.com/ZhenyangXuUVA/Image-Generation-with-Generative-Adversarial-Network/blob/main/Readme/Figure01.png" width="300" height="150">
