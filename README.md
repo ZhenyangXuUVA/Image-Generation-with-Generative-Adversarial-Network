@@ -57,7 +57,12 @@ Packages required for this program is listed below:
 
 ## Output Image files:
 - Output_Images_V1: Generated Images x 100
+- Research Paper
+- Image Generation with SN-DCGAN on MNIST (Figure01)
+- Image Generation with SN-DCGAN on CIFAR-10 (Figure02)
 
 ## Results:
-- Image Style Transfer Examples: 
+- Image Generation with SN-DCGAN on MNIST: 
 <img src="https://github.com/ZhenyangXuUVA/Image-Generation-with-Generative-Adversarial-Network/blob/main/Readme/Figure01.png" width="600" height="300">
+- Image Generation with SN-DCGAN on CIFAR-10:
+<img src="https://github.com/ZhenyangXuUVA/Image-Generation-with-Generative-Adversarial-Network/blob/main/Readme/Figure02.png" width="600" height="300">
